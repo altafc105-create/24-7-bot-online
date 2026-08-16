@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "all_boss_defeat.aternos.me",
+    "port": 20687,
     "version": "1.20.1",
     "try-creative": false
   },
