@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "vanillasmpx.playserver.pro",
-    "port": 20687,
+    "port": 15148,
     "version": "1.21.11",
     "try-creative": false
   },
